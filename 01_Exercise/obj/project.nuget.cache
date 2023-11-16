@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RWUnYgKB5tjfWp44MWj03Wnfe6NmlFii+QfosE6sDK3Yei8XmpnGB7pGFkdrd0Gbbn0CykIya9hhIsNjYLx5zA==",
+  "success": true,
+  "projectFilePath": "C:\\Skoluppgifter\\C-sharp\\Exam_Csharp1\\01_Exercise\\Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikla\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

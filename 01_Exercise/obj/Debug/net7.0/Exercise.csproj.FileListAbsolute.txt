@@ -1,0 +1,17 @@
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\Exercise.exe
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\Exercise.deps.json
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\Exercise.runtimeconfig.json
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\Exercise.dll
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\Exercise.pdb
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\Exercise.AssemblyInfoInputs.cache
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\Exercise.AssemblyInfo.cs
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\Exercise.dll
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\refint\Exercise.dll
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\Exercise.pdb
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\Exercise.genruntimeconfig.cache
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\ref\Exercise.dll
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\Exercise.csproj.AssemblyReference.cache
+C:\Skoluppgifter\C-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\Exercise.csproj.CopyComplete
